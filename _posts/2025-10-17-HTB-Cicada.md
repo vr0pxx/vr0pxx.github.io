@@ -86,7 +86,7 @@ smb: \>
 ## Intrusión
 
 
-![Desktop View](../assets/img/posts/htb/cicada/img1.png){: width="972" height="589" }
+![Desktop View](/assets/img/posts//htb/cicada/img1.png){: width="972" height="589" }
 _Full screen width and center alignment_
 
 
