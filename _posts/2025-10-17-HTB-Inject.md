@@ -93,7 +93,7 @@ La carpera **/upload** nos llama la atención, ingresamos a ella y podemos ver q
 _Upload_
 
 Si subimos una reverse shell de PHP nos dice que solo adminte imagenes, subimos una imagen random y miremos resultados.
-![Imagen]({{ 'assets/img/posts/htb/Inject/up1.png' | relative_url }}){: .center-image }
+![Imagen]({{ 'assets/img/posts/htb/inject/up1.png' | relative_url }}){: .center-image }
 _Imagen_
 
 entramos a ver la imagen y .....mmmm  **img?=** eso huele a **Directory Transversal**. Podemos probar ver el **/etc/passwd** ingresamos la cadena 
