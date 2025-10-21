@@ -405,7 +405,7 @@ listening on [any] 443 ...
 connect to [10.10.14.170] from (UNKNOWN) [10.129.178.241] 48474
 frank@inject:/$
 ```
-Aplicamos tratamiento a la [TTY](https://h4ckerlite.github.io/posts/tty/).
+Aplicamos tratamiento a la [TTY](https://vr0pxx.github.io/posts/tty/).
 
 ## Migración de usuario
 En la carpeta personal del usuario listamos carpetas escondidad
