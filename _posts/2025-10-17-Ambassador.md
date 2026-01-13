@@ -1,8 +1,8 @@
 ---
 title: HTB Ambassador
 date: 2025-10-17 00:00:00 +0800
-categories: [hackthebox, machine, writeup, liniux, medium]
-tags: [linux, hackthebox, writeup, grafana, directory transversal, arbitrary file read, medium]
+categories: [WriteUp, Hack The Box, Machine, Liniux, Medium]
+tags: [Linux, Hack The Box, WriteUp, Grafana, Directory Transversal, Arbitrary File Read, Medium]
 pin: false
 image: /assets/img/posts//htb/ambassador/AmbassadorLogo.png
 ---

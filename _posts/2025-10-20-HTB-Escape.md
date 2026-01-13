@@ -1,8 +1,8 @@
 ---
 title: "HTB Escape"
 date: 2025-10-17 09:35:00 +0000
-categories: [WriteUps, Hack The Box, Active Directory, Medium, Windows]
-tags: [SMB. NULL SESSION, Certify, Rubeus, DC, SMBCLIENT, EVIL-WINRM]
+categories: [WriteUp, Hack The Box, Active Directory, Medium, Windows]
+tags: [SMB, NULL SESSION, Certify, Rubeus, DC, SMBCLIENT, EVIL-WINRM]
 image: /assets/img/posts//htb/escape/EscapeLogo.png
 pin: false
 ---

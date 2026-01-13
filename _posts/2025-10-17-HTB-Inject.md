@@ -1,9 +1,8 @@
 ---
 title: "HTB Inject"
 date: 2025-10-17 09:35:00 +0000
-categories: [hackthebox, machine, writeup, Linux]
-tags: [linux, hackthebox, writeup, easy, directory transversal, Ansible playbook, spring, SpEL injection,
-command injection]
+categories: [WriteUp, Hack The Box, Machine, Linux]
+tags: [Linux, Hack The Box, WriteUp, Easy, Directory Transversal, Ansible Playbook, Spring, SpEL Injection, Command Injection]
 image: /assets/img/posts//htb/inject/InjectLogo.png
 pin: false
 ---

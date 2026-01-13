@@ -1,8 +1,8 @@
 ---
 title: "HTB Cicada"
 date: 2025-10-17 09:35:00 +0000
-categories: [WriteUps, Hack The Box, Active Directory, Easy, Windows]
-tags: [SMB. NULL SESSION, NTLM, SAM, SYSTEM, SeBackupPrivilege, SeRestorePrivilege]
+categories: [WriteUp, Hack The Box, Active Directory, Easy, Windows]
+tags: [SMB. NULL SESSION, NTLM, SAM, SYSTEM, SeBackupPrivilege, SeRestorePrivilege, WriteUp]
 image: /assets/img/posts//htb/cicada/CicadaLogo.png
 pin: false
 ---
