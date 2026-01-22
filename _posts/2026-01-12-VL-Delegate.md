@@ -1,7 +1,7 @@
 ---
 title: "VL Delegate"
 date: 2026-01-12 20:15:00 +0000
-categories: [WriteUp, Hack The Box, Machine, Windows]
+categories: [WriteUp, Vulnlab, Machine, Windows]
 tags: [Windows, Vulnlab, WriteUp, Medium, AD, Kerberos, Bloodhound, GenericWrite, Kerberoasting, Unconstrained-Delegation, DACL, DNS-Poisoning, Printer-Bug, DCSync]
 image: /assets/img/posts//vl/delegate/Delegate-HTB.png
 pin: false
